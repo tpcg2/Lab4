@@ -2,26 +2,16 @@
 
 ## Introduction
 
-The basic Node.js application on TypeScript.
+This Lab is about how to test if our functions work using MOCHA.
 
 ## Installing
 
 ```bash
-git clone https://github.com/sergkudinov/ece-nodejs-2-typescript.git
-cd ece-nodejs-2-typescript
-npm install
-```
-
-## Build
-
-```bash
-npm run build
-```
-
-## Development
-
-```bash
-npm run dev
+To run this Lab you just have to go to your console and write npm test.
 ```
 
 ## Contributors
+```bash
+Guillaume CARRABIN
+Thomas GEORGE
+```
